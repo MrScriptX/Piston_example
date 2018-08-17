@@ -1,0 +1,9 @@
+[package]
+name = "piston_playground"
+version = "0.1.0"
+authors = ["MrScriptX <dan.liebault@viacesi.fr>"]
+
+[dependencies]
+piston_window = "0.70.0"
+piston = "0.37.0"
+piston2d-touch_visualizer = "0.11.0"
